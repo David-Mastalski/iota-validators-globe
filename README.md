@@ -30,6 +30,7 @@ cd iota-validators-globe
 cp .env.example .env
 cp server/.env.example server/.env
 ```
+⚠️ Przed uruchomieniem aplikacji upewnij się, że wypełniłeś zmienne środowiskowe w `.env` i `server/.env`
 
 ### 3. Zainstaluj zależności
 ```bash

@@ -27,7 +27,7 @@ interface GlobeViewProps {
 function GlobeView({ nodes }: GlobeViewProps) {
   const globeRef = useRef<HTMLDivElement | null>(null);
   const panelRef = useRef<HTMLDivElement | null>(null);
-  const globeInstanceRef = useRef<any>(null); 
+  const globeInstanceRef = useRef<any>(null);
   const [selectedPoint, setSelectedPoint] = useState<SelectedPoint | null>(
     null,
   );
@@ -53,7 +53,7 @@ function GlobeView({ nodes }: GlobeViewProps) {
   useEffect(() => {
     if (!globeRef.current) return;
 
-    const globe = Globe()(globeRef.current)
+    const globe = new Globe(globeRef.current)
       .backgroundColor("rgba(0,0,0,0)")
       .globeImageUrl("//unpkg.com/three-globe/example/img/earth-night.jpg");
 
@@ -70,10 +70,10 @@ function GlobeView({ nodes }: GlobeViewProps) {
 
     resize();
     window.addEventListener("resize", resize);
-    globeInstanceRef.current = globe; 
+    globeInstanceRef.current = globe;
 
     return () => window.removeEventListener("resize", resize);
-  }, []); 
+  }, []);
 
   useEffect(() => {
     if (!globeInstanceRef.current || points.length === 0) return;

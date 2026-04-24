@@ -6,7 +6,7 @@ Inspirowana: [gmonads.com](https://www.gmonads.com/)
 
 ## Demo
 - Frontend: [*Iotix.com*](https://iota-validators-globe.vercel.app/)
-- API: *(link po deployu)*
+- API: [*API*](https://iota-validators-globe-production.up.railway.app/)
 
 ## Funkcje
 - 🌍 Interaktywny globus 3D z zaznaczonymi lokalizacjami walidatorów

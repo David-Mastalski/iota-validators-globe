@@ -5,7 +5,7 @@ Interaktywna aplikacja webowa z globusem 3D prezentującym walidatorów sieci IO
 Inspirowana: [gmonads.com](https://www.gmonads.com/)
 
 ## Demo
-- Frontend: [*(link po deployu)*](https://iota-validators-globe.vercel.app/)
+- Frontend: [*Iotix.com*](https://iota-validators-globe.vercel.app/)
 - API: *(link po deployu)*
 
 ## Funkcje

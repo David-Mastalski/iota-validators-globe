@@ -1,0 +1,470 @@
+[
+  {
+    "country": "United States",
+    "lat": 40.7687,
+    "lng": -111.886,
+    "count": 9,
+    "nodes": [
+      {
+        "name": "Nansen",
+        "logo": "https://raw.githubusercontent.com/nansen-ai/staking-brand-assets/refs/heads/main/nansen_logo.png"
+      },
+      {
+        "name": "Stakin by The Tie",
+        "logo": "https://stakin-data.s3.eu-west-2.amazonaws.com/logo_black.png"
+      },
+      {
+        "name": "Pier Two",
+        "logo": "https://piertwo.com/img/brand-assets/logo/logomark-midblue.svg"
+      },
+      {
+        "name": "Ankr",
+        "logo": "https://rollup.asphere.xyz/static/token/ankr.svg"
+      },
+      {
+        "name": "InfStones",
+        "logo": "https://infstones.com/InfStones.svg"
+      },
+      {
+        "name": "Staking4All",
+        "logo": "https://raw.githubusercontent.com/staking4all/eigenlayer/main/Stake4All_logo.png"
+      },
+      {
+        "name": "Sentio",
+        "logo": "https://app.sentio.xyz/logo-mini.png"
+      },
+      {
+        "name": "binance",
+        "logo": "https://raw.githubusercontent.com/Earn-staking/Validator/refs/heads/main/binance-icon.png"
+      },
+      {
+        "name": "Cetus",
+        "logo": "https://i.ibb.co/TWdmdQz/cetus-icon.png"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "lat": 50.4777,
+    "lng": 12.3649,
+    "count": 15,
+    "nodes": [
+      {
+        "name": "IOTA 1",
+        "logo": "https://files.iota.org/media/validators-logo/iotafoundation.png"
+      },
+      {
+        "name": "IOTA 3",
+        "logo": "https://files.iota.org/media/validators-logo/iotafoundation.png"
+      },
+      {
+        "name": "Matrixed.Link",
+        "logo": "https://assets.matrixedlink.io/matrixedlink-logo.png"
+      },
+      {
+        "name": "Figment",
+        "logo": "https://figment-public-images.s3.amazonaws.com/6218084d49579c82acba0948_Figment_Logo.png"
+      },
+      {
+        "name": "Nodes.Guru",
+        "logo": "https://nodes.guru/kit/mascot-light.svg"
+      },
+      {
+        "name": "BLOCKPI",
+        "logo": "https://static.blockpi.io/blockpi-logo-mini.png"
+      },
+      {
+        "name": "Lavender.Five Nodes",
+        "logo": "https://pbs.twimg.com/profile_images/1571159763962011651/NYJePebQ_400x400.jpg"
+      },
+      {
+        "name": "Node.Monster",
+        "logo": "https://cdn.prod.website-files.com/675ea9b16a5b05d66c7e98ea/67b636ea0f3e9d5c778b16dd_logo.png"
+      },
+      {
+        "name": "StakingCabin",
+        "logo": "https://cdn.jsdelivr.net/gh/stakingcabin/stakingcabin@main/assets/logo512.png"
+      },
+      {
+        "name": "PANDABYTE I",
+        "logo": "https://assets.pandabyte.net/images/logo.svg"
+      },
+      {
+        "name": "Keyring",
+        "logo": "https://keyring.so/logo.png"
+      },
+      {
+        "name": "STAKEME",
+        "logo": "https://raw.githubusercontent.com/stakeme-team/iota-metadata/main/logo/stakeme-logo.png"
+      },
+      {
+        "name": "Realize",
+        "logo": "https://www.realizeassets.com/apple-touch-icon.png"
+      },
+      {
+        "name": "iota.guru",
+        "logo": "https://www.iota.guru/favicon-512x512.png"
+      },
+      {
+        "name": "jednaosma.pl",
+        "logo": "https://jednaosma.pl/j8.jpg"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "lat": 48.2049,
+    "lng": 16.3662,
+    "count": 3,
+    "nodes": [
+      {
+        "name": "Coinage x DAIC",
+        "logo": "https://raw.githubusercontent.com/DAICers/coinage_x_daic/refs/heads/main/files/images/DAIC-CNG-Ape_360_moniker.png"
+      },
+      {
+        "name": "DLT.GREEN",
+        "logo": "https://dlt.green/images/logos/DLT.GREEN.gif"
+      },
+      {
+        "name": "TrustedPoint",
+        "logo": "https://trusted-point.s3.amazonaws.com/logo/TrustedPointGoldAndRed.png"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "lat": 50.7012,
+    "lng": 3.21501,
+    "count": 9,
+    "nodes": [
+      {
+        "name": "Kiln Legacy (end-of-life on 30 April)",
+        "logo": "https://raw.githubusercontent.com/kilnfi/public/6f8895ddc9d1e330a8775f7bdabfa12b763407a6/icon-360px.png"
+      },
+      {
+        "name": "Luganodes",
+        "logo": "https://static.lgns.xyz/logo.jpg"
+      },
+      {
+        "name": "Alchemy",
+        "logo": "https://raw.githubusercontent.com/alchemyplatform/validators/refs/heads/main/brand-assets/alchemy-mark-on-light.png"
+      },
+      {
+        "name": "DSRV",
+        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/8349f3ab6852a8419c1987ad9096c605_360_360.jpg"
+      },
+      {
+        "name": "Meria",
+        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/3fcc4caebb2c8e949829a7b090be3805_360_360.jpg"
+      },
+      {
+        "name": "InfraSingularity",
+        "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/InfraSingularity/logo.png"
+      },
+      {
+        "name": "B-Harvest",
+        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/3d5a3bd02e0c30db7949a371bbc4d705_360_360.jpg"
+      },
+      {
+        "name": "Kiln1 Legacy (end-of-life on 30 April)",
+        "logo": "https://raw.githubusercontent.com/kilnfi/public/6f8895ddc9d1e330a8775f7bdabfa12b763407a6/icon-360px.png"
+      },
+      {
+        "name": "Kiln0",
+        "logo": "https://raw.githubusercontent.com/kilnfi/public/6f8895ddc9d1e330a8775f7bdabfa12b763407a6/icon-360px.png"
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "lat": 60.1719,
+    "lng": 24.9347,
+    "count": 11,
+    "nodes": [
+      {
+        "name": "IOTA 2",
+        "logo": "https://files.iota.org/media/validators-logo/iotafoundation.png"
+      },
+      {
+        "name": "Nightly",
+        "logo": "https://registry.nightly.app/wallets/nightly/default.png"
+      },
+      {
+        "name": "Cryptech-Hacken",
+        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/366d89bc67a6c764f0d62245447ee305_360_360.jpg"
+      },
+      {
+        "name": "TokenLabs.Network",
+        "logo": "https://api.tokenlabs.network/img/TokenLabsValidatorIcon.png"
+      },
+      {
+        "name": "starfish-one",
+        "logo": "https://pbs.twimg.com/media/Gq1UZ9rWUAAXy8G.png"
+      },
+      {
+        "name": "SDVC",
+        "logo": "https://www.sdvc-iv.online/icon-256x256.png"
+      },
+      {
+        "name": "ApeDAO",
+        "logo": "https://ipfs.io/ipfs/bafkreihfl24keyx4rt6zlgoacd4tgm42gbhl4hv6dredjs7dau5sorqrdy"
+      },
+      {
+        "name": "Klever",
+        "logo": "https://raw.githubusercontent.com/louisdg1/klever-info/main/Klever_logo.png"
+      },
+      {
+        "name": "hoh.zone",
+        "logo": "https://avatars.githubusercontent.com/u/181119030"
+      },
+      {
+        "name": "Endorphine Stake",
+        "logo": "https://raw.githubusercontent.com/endorphinestake/resources/main/media-kit/logo-endorphine.png"
+      },
+      {
+        "name": "Cream",
+        "logo": "https://iotacreamies.github.io/creamies/staking/img/logo.png"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "lat": 37.4783,
+    "lng": -5.912,
+    "count": 2,
+    "nodes": [
+      {
+        "name": "Blockscope.net",
+        "logo": "https://www.blockscope.net/blockscope_thumbnail_360_360.png"
+      },
+      {
+        "name": "[NODERS]",
+        "logo": "https://raw.githubusercontent.com/noders-team/brand-kit/refs/heads/main/logo/noders_logo_1024.png"
+      }
+    ]
+  },
+  {
+    "country": "Ireland",
+    "lat": 53.3498,
+    "lng": -6.26031,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "Twinstake",
+        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/cd5ed2719db24ffa391fc092e3a1e105_360_360.jpg"
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "lat": 45.5029,
+    "lng": -73.5723,
+    "count": 3,
+    "nodes": [
+      {
+        "name": "Staketab",
+        "logo": "https://brand-staketab.s3.eu-north-1.amazonaws.com/staketab/twitter.png"
+      },
+      {
+        "name": "ALUMLABS",
+        "logo": "https://alumlabs.io/assets/img/logo-nobg.png"
+      },
+      {
+        "name": "liquidlink.io",
+        "logo": "https://www.liquidlink.io/favicon.ico"
+      }
+    ]
+  },
+  {
+    "country": "The Netherlands",
+    "lat": 52.3098,
+    "lng": 4.93535,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "P2P Validator",
+        "logo": "https://cdn.p2p.org/p2p360_logo.png"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "lat": 52.3759,
+    "lng": 4.8975,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "Cosmostation",
+        "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/resource/cosmostation/cosmostation_color.svg"
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "lat": 35.6092,
+    "lng": 139.73,
+    "count": 2,
+    "nodes": [
+      {
+        "name": "Allnodes",
+        "logo": "https://www.allnodes.com/assets/logo.png"
+      },
+      {
+        "name": "Hinode Technologies",
+        "logo": "https://arweave.net/c6m5xC1lo90_y7dC2Qp5eVs7R9cC3sLoIDwF3F5kCWg"
+      }
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "lat": 22.3193,
+    "lng": 114.169,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "HashKeyCloud",
+        "logo": "https://raw.githubusercontent.com/HashKeyCloud/HashKey-Cloud-Logo/main/hashkey-cloud-white.png"
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "lat": 56.9473,
+    "lng": 24.0979,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "CroutonDigital",
+        "logo": "https://raw.githubusercontent.com/Crouton-Digital/Eigenlayer/refs/heads/main/logo.png"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "lat": 53.7817,
+    "lng": -1.7776,
+    "count": 2,
+    "nodes": [
+      {
+        "name": "LinkPool",
+        "logo": "https://linkpool.com/brand-assets/linkpool-logo-og.png"
+      },
+      {
+        "name": "Liquify",
+        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/31a0ace06281b6edbea46ea9919ca105_360_360.jpg"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "lat": 12.9753,
+    "lng": 77.591,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "Encapsulate",
+        "logo": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "lat": 44.4205,
+    "lng": 26.169,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "BlockHunters",
+        "logo": "https://github.com/blockhunters-org/operator/blob/main/logo.png?raw=true"
+      }
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "lat": 48.1861,
+    "lng": 17.2556,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "Spectrum Staking",
+        "logo": "https://spectrumstaking.net/images/Spst_white_512x512.png"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "lat": 47.4347,
+    "lng": 8.56711,
+    "count": 2,
+    "nodes": [
+      {
+        "name": "SwissIota",
+        "logo": "https://swissiota.com/favicon.png"
+      },
+      {
+        "name": "PANDABYTE II",
+        "logo": "https://assets.pandabyte.net/images/logo.svg"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "lat": 52.2299,
+    "lng": 21.0093,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "Stardust Staking",
+        "logo": "https://starduststaking.com/stardust_logo-4.png"
+      }
+    ]
+  },
+  {
+    "country": "Malta",
+    "lat": 35.8992,
+    "lng": 14.5141,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "Simply Staking",
+        "logo": "https://simplystaking.com/wp-content/uploads/2025/07/Asset-1.webp"
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "lat": 25.0693,
+    "lng": 121.4626,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "GiveRep",
+        "logo": "https://giverep.com/images/giverep_new_logo.jpg"
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "lat": 1.28009,
+    "lng": 103.851,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "GAIB AI",
+        "logo": "https://gaib.ai/favicon.ico"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "count": 1,
+    "nodes": [
+      {
+        "name": "Sensei_Node",
+        "logo": "https://raw.githubusercontent.com/Sensei-Node/eigenlayer_public/9841df4de3936865c0dbac01b1205b8e892ce82e/PHOTO-2024-03-13-08-51-29.jpg"
+      }
+    ]
+  }
+]

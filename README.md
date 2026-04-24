@@ -10,9 +10,8 @@ Inspirowana: [gmonads.com](https://www.gmonads.com/)
 
 ## Funkcje
 - 🌍 Interaktywny globus 3D z zaznaczonymi lokalizacjami walidatorów
-- 📡 Dane pobierane na żywo z sieci IOTA (odświeżane co 30s)
-- 🔒 RPC zabezpieczone przez backend — adres nigdy nie trafia do przeglądarki
-- 📱 Responsywny design, działa na mobile
+- 📡 Dane pobierane na żywo z sieci IOTA
+- 📱 Responsywny design
 
 ## Stack
 - **Frontend:** React 19, TypeScript, Tailwind CSS, Globe.gl
@@ -26,19 +25,20 @@ git clone https://github.com/David-Mastalski/iota-validators-globe.git
 cd iota-validators-globe
 ```
 
-### 2. Backend
+### 2. Skonfiguruj zmienne środowiskowe
 ```bash
-cd server
 cp .env.example .env
-npm install
-node server.js
+cp server/.env.example server/.env
 ```
 
-### 3. Frontend
+### 3. Zainstaluj zależności
 ```bash
-cd ..
-cp .env.example .env
 npm install
+npm --prefix server install
+```
+
+### 4. Uruchom aplikację
+```bash
 npm run dev
 ```
 
